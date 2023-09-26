@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataAccess.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataAccess.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataAccess.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataAccess.csproj.CoreCompileInputs.cache

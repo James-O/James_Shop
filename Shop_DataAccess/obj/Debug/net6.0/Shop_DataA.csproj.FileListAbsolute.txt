@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_DataA.deps.json
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_DataA.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_DataA.pdb
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_Models.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_Models.pdb
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.csproj.CopyComplete
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\refint\Shop_DataA.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\Shop_DataA.pdb
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\obj\Debug\net6.0\ref\Shop_DataA.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_Utility.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_DataAccess\bin\Debug\net6.0\Shop_Utility.pdb

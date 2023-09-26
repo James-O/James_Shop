@@ -1,0 +1,12 @@
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.AssemblyInfo.cs
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\bin\Debug\net6.0\Shop_Models.deps.json
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\bin\Debug\net6.0\Shop_Models.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\bin\Debug\net6.0\Shop_Models.pdb
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\refint\Shop_Models.dll
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\Shop_Models.pdb
+C:\Users\USER\Desktop\Projects\JamesShop\Shop_Models\obj\Debug\net6.0\ref\Shop_Models.dll

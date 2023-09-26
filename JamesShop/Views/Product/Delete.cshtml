@@ -1,0 +1,93 @@
+﻿@using Shop_Utility;
+@model Shop_Models.Product
+
+<form asp-action="DeletePost">
+<h3>Are you sure you want to delete this Product?</h3>
+<br />
+<div>
+    <div class="row bg-white">
+        <div class="col-8">
+            <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="Name"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Name" class="form-control" disabled/>
+                </div>
+            </div>
+
+            <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="Price"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Price" class="form-control" disabled />
+                </div>
+            </div>
+
+            <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="ShortDesc"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="ShortDesc" class="form-control" disabled />
+                </div>
+            </div>
+
+                <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="Description"></label>
+                </div>
+                <div class="col-8">
+                        <textarea asp-for="Description" class="form-control" disabled ></textarea>
+                </div>
+            </div>
+
+
+            <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="Category"></label>
+                </div>
+                <div class="col-8">
+                        <input asp-for="Category.Name" class="form-control" disabled />
+                </div>
+            </div>
+
+            <div class="form-group row py-2">
+                <div class="col-4">
+                    <label asp-for="Application"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="Application.Name" class="form-control" disabled />
+                </div>
+            </div>
+
+            <div class="form-group row py-2">
+                
+                <input type="hidden" asp-for="Id" />
+                <div class="col-8 offset-4 row">
+                    <div class="col">
+                        <input type="submit" value="Delete" class="btn btn-danger w-100" />
+                    </div>
+                    <div class="col">
+                        <a asp-action="Index" class="btn btn-info w-100">Back to List</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-4">
+            <div class="col">
+                @if (Model.Id !=0)
+                {
+                    <img src="@WC.ImagePath@Model.Image" class="w-100"
+                         style="border-radius:5px; border:2px solid green;" />
+                }
+            </div>
+        </div>
+    </div>
+    
+    
+        
+    
+</div>
+</form>
